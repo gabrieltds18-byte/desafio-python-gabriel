@@ -1,5 +1,3 @@
-# desafio-python-gabriel
-“Desafios de programação em Python
 # Desafios Python – Gabriel
 
 Este repositório contém 3 programas em Python desenvolvidos para resolver os seguintes desafios:
