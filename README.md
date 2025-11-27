@@ -4,7 +4,7 @@ Este repositório contém 3 programas em Python desenvolvidos para resolver os s
 
 ---
 
-#Desafio 1 — Cálculo de Comissões
+Desafio 1 — Cálculo de Comissões
 Arquivo: `desafio1_comissoes.py`
 
 - Lê a lista de vendas
@@ -17,7 +17,7 @@ Arquivo: `desafio1_comissoes.py`
 
 ---
 
-#✅ Desafio 2 — Movimentações de Estoque
+Desafio 2 — Movimentações de Estoque
 Arquivo: `desafio2_estoque.py`
 
 Permite registrar:
@@ -29,7 +29,7 @@ E retorna o estoque final do produto.
 
 ---
 
-#✅ Desafio 3 — Cálculo de Juros
+Desafio 3 — Cálculo de Juros
 Arquivo: `desafio3_juros.py`
 
 Dado:
